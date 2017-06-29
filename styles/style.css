@@ -1,0 +1,26 @@
+h1 {
+	font-size: 40px;
+	position: relative;
+	left: 17em;
+}
+
+#box {
+	position: relative;
+	top: 5px;
+	right: 667px;
+	height: 800px;
+	width: 800px;
+	outline: 2px solid black;
+	border: none;
+	font-size: 0;
+	margin: auto;
+	padding: 0;
+}
+
+.grid {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: 1px solid black;
+	display: inline-block;
+}
